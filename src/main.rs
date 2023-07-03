@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let message = "Welcome to Rust Course";
+    println!("{}", message);
 }
