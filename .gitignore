@@ -11,3 +11,4 @@ target/debug/.fingerprint/session_00_hello_rust-6515fa0cfba1b9ce/test-bin-sessio
 .idea/misc.xml
 .idea/modules.xml
 session_00_hello_rust.iml
+.idea/vcs.xml
