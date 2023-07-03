@@ -1,0 +1,13 @@
+
+target/.rustc_info.json
+target/CACHEDIR.TAG
+target/debug/.cargo-lock
+target/debug/.fingerprint/session_00_hello_rust-50273bd237ca05b8/bin-session_00_hello_rust
+target/debug/.fingerprint/session_00_hello_rust-50273bd237ca05b8/bin-session_00_hello_rust.json
+target/debug/.fingerprint/session_00_hello_rust-50273bd237ca05b8/invoked.timestamp
+target/debug/.fingerprint/session_00_hello_rust-6515fa0cfba1b9ce/invoked.timestamp
+target/debug/.fingerprint/session_00_hello_rust-6515fa0cfba1b9ce/test-bin-session_00_hello_rust
+target/debug/.fingerprint/session_00_hello_rust-6515fa0cfba1b9ce/test-bin-session_00_hello_rust.json
+.idea/misc.xml
+.idea/modules.xml
+session_00_hello_rust.iml
